@@ -1,2 +1,7 @@
+Installation:
+npm install -D tailwindcss
+npx tailwindcss init
+
+Dev server:
 npm i -g http-server
 http-server
